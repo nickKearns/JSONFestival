@@ -1,0 +1,36 @@
+{
+   "Festivals":[
+      {
+         "date":"april 13th 2020",
+         "name":"firefly festival",
+         "city":"Dover",
+         "lineup":[
+            {
+               "name":"diplo",
+               "id":"1"
+            },
+            {
+               "name":"dua lipa",
+               "id":"1"
+            }
+         ],
+         "type":"music"
+      },
+      {
+         "date":"april 13th 2020",
+         "name":"Boston Calling",
+         "city":"boston",
+         "lineup":[
+            {
+               "name":"Red Hot Chili Peppers",
+               "id":"1"
+            },
+            {
+               "name":"Foo Fighters",
+               "id":"2"
+            }
+         ],
+         "type": "music"
+      }
+   ]
+}
